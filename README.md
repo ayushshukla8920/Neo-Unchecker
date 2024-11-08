@@ -27,7 +27,7 @@ If you get Error Like Port already in use then please close the Neochecker app t
 
 Now you can Open NeoColab Tests without installing Neochecker
 
-If you still cant use Ai website and it keeps closing tabs then remove NeoExamShield and install Dirtyshield Extension from Here : [Download DirtyShield](https://github.com/ayushshukla8920/Dirtyshield)
+If you still cant use Ai website and it keeps closing tabs then remove NeoExamShield and install Dirtyshield Extension from Here : [Download DirtyShield](https://github.com/ayushshukla8920/Dirtyshield/archive/refs/heads/main.zip)
 
 
 Now Enjoy !!
