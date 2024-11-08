@@ -1,8 +1,9 @@
 # Neo-Unchecker
 
 This is a Node Application that can Fake the working of IamNeo Platform's Environment Checking Application NeoExam Checker.
-The App Creates a Server at Port 9999 that sends the resonse to Neocolab about the Test Environment being OK.
+The App Creates a Server at Port 9999 that sends the response to Neocolab about the Test Environment being OK.
 The Response always remains ok even if other apps like screensharing is on and devtools are opened.
+
 This Content is Strictly for Educational Purposes and I do not promote any Unfair means in the Examination.
 
 ## Requirements
