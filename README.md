@@ -29,5 +29,18 @@ Now you can Open NeoColab Tests without installing Neochecker
 
 If you still cant use Ai website and it keeps closing tabs then remove NeoExamShield and install Dirtyshield Extension from Here : [Download DirtyShield](https://github.com/ayushshukla8920/Dirtyshield/archive/refs/heads/main.zip)
 
+## Troubleshooting 
+
+If you Encounter error like this while running npm i
+
+```
+Error on terminal: nodemon.ps1 cannot be loaded because running scripts is disabled on this system. For more information, see about_Execution_Policies at https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.2
+```
+then Open windows PowerShell as Administrator and Execute the Following command
+```
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+then press Y for yes and enter and try running the Application again..
+
 
 Now Enjoy !!
